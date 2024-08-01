@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e2q4F6tPxZukP7VTpAcpFgw0sce8xN/zcJLJftRRgXCDihZVwjUw1bUaPrHucy8UqReyhEyB8sXdD+li65uaHg==",
+  "success": true,
+  "projectFilePath": "/home/sahle/Desktop/C#/StuffyBankLibrary/StuffyBankLibrary.csproj",
+  "expectedPackageFiles": [
+    "/home/sahle/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/sahle/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
